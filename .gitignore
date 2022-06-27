@@ -5,6 +5,8 @@
 /tmp
 /out-tsc
 /bazel-out
+/src/assets/heroes
+/src/assets/no-image.png
 
 # Node
 /node_modules

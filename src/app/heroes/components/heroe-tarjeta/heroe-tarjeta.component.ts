@@ -1,5 +1,5 @@
 import { Component, Input, OnInit } from '@angular/core';
-import { Heroe } from '../../pages/interface/heroe.interface';
+import { Heroe } from '../../interface/heroe.interface';
 
 @Component({
   selector: 'app-heroe-tarjeta',

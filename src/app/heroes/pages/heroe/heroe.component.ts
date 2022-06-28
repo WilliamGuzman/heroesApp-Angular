@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 import { ActivatedRoute, Router } from '@angular/router';
 import { HeroesService } from '../../services/heroes.service';
-import { Heroe } from '../interface/heroe.interface';
+import { Heroe } from '../../interface/heroe.interface';
 import { switchMap, tap } from 'rxjs/operators';
 
 @Component({
